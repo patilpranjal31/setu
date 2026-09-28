@@ -1,0 +1,6 @@
+{
+  "name": "SETU",
+  "description": "SETU - National Digital Platform for Research, Policy Innovation & Evidence-Based Land Governance",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
